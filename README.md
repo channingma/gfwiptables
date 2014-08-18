@@ -7,7 +7,7 @@ A router script against GFW DNS pollution.
 
 本脚本针对GFW的污染IP进行过滤
 
-首先你要有一个路由器
+首先你要有一个路由器或者你的系统是Linux
 
 然后你的路由器能加载脚本
 
