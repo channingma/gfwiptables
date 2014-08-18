@@ -3,10 +3,7 @@ gfwiptables
 
 A router script against GFW DNS pollution.
 
-获取方式：
-http://t.cn/RPQRYuC
-或
-https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables
+获取方式：https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables
 
 脚本内容来自网络分享
 
