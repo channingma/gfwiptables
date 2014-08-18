@@ -3,6 +3,11 @@ gfwiptables
 
 A router script against GFW DNS pollution.
 
+获取方式：
+http://t.cn/RPQRYuC
+或
+https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables
+
 脚本内容来自网络分享
 
 本脚本针对GFW的污染IP进行过滤
@@ -26,3 +31,4 @@ A router script against GFW DNS pollution.
 每行IP不得超过10个
 
 发现新的污染IP请及时通知
+
