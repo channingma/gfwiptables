@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#路由器专用
+#路由器或Linux系统专用
 #必须关闭内置DNS功能
 #必须要有国外DNS(OpenDNS, Google DNS, etc)
 #推荐设置1国内+1国外DNS
