@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Linux系统专用(路由器或PC)
-#必须关闭路由器内置DNS功能
+#某些路由器必须关闭内置DNS功能方可起效
 #必须要有国外DNS(OpenDNS, Google DNS, etc)
 #推荐设置1国内+1国外DNS
 #路由器设置为初始化脚本或者防火墙脚本
