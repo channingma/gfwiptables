@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Linux系统专用(路由器或PC),并确保有u32模块
+#Linux系统专用(路由器或PC),并确保有u32模块(tomato默认有,dd-wrt请节哀,openwrt全是高手就不说了)
 #路由器设置为初始化脚本或者防火墙脚本
 #必须要有国外DNS(OpenDNS, Google DNS, etc)
 #推荐设置1国内+1国外DNS
