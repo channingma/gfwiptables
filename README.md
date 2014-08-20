@@ -23,4 +23,6 @@ nslookup dropbox.com 114.114.114.114 将会无结果
 
 nslookup dropbox.com 8.8.8.8 将会返回正确结果
 
+目前使用的IP是goagent里的blacklist
+
 发现新的污染IP请及时发邮件通知 arbiterazzvx@gmail.com
