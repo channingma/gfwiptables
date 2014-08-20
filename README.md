@@ -3,15 +3,15 @@ gfwiptables
 
 A Script Against GFW DNS Pollution.
 
+首先你要有一个Linux系统的路由器或者PC，并确保有u32模块(tomato默认有,dd-wrt请节哀,openwrt全是高手就不说了)。
+
+如果是一个路由器，那么确保能加载脚本(初始化脚本，防火墙脚本啥的)，当然自己手工改也是可以的。
+
 获取方式：https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables
 
 脚本内容来自网络分享。
 
 本脚本针对GFW的污染IP进行过滤。
-
-首先你要有一个Linux系统的路由器或者PC。
-
-如果你的是一个路由器，那么确保路由器能加载脚本（初始化脚本，防火墙脚本啥的）。
 
 本脚本可以完美解决GFW的DNS污染问题。
 
