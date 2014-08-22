@@ -10,8 +10,7 @@ A Script Against GFW DNS Pollution.
 
 如果是一个路由器，那么确保能加载脚本(初始化脚本，防火墙脚本啥的)，当然自己手工改也是可以的。
 
-获取方式：https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables
-获取方式：https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables2
+获取方式：https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables ,  https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables2
 
 脚本内容来自网络分享。
 
