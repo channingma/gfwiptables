@@ -14,7 +14,7 @@ A Script Against GFW DNS Pollution.
 
 貌似OneDNS的结果无法过滤
 
-IPv6最好不要填写静态DNS
+不支持IPv6查询DNS结果的过滤
 
 6to4隧道貌似使用Routed/48前缀更好
 
