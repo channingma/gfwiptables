@@ -14,6 +14,10 @@ A Script Against GFW DNS Pollution.
 
 貌似OneDNS的结果无法过滤
 
+IPv6最好不要填写静态DNS
+
+6to4隧道貌似使用Routed/48前缀更好
+
 脚本内容来自网络分享。
 
 本脚本针对GFW的污染IP进行过滤。
