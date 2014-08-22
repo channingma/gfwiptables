@@ -5,7 +5,8 @@ A Script Against GFW DNS Pollution.
 
 首先你要有一个Linux系统的路由器或者PC，并确保有u32模块。
 
-没有的可以看一下这里https://github.com/lifetyper/FreeRouter_V2/blob/master/OpenWRT/etc/firewall.user里面用的string模块，但在我的路由器上出问题
+没有u32模块的可以看一下这里https://github.com/lifetyper/FreeRouter_V2/blob/master/OpenWRT/etc/firewall.user
+里面用的string模块，但在我的路由器上总出问题
 
 如果是一个路由器，那么确保能加载脚本(初始化脚本，防火墙脚本啥的)，当然自己手工改也是可以的。
 
