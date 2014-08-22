@@ -12,6 +12,8 @@ A Script Against GFW DNS Pollution.
 
 获取方式：https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables ,  https://raw.githubusercontent.com/azzvx/gfwiptables/master/gfwiptables2
 
+貌似OneDNS的结果无法过滤
+
 脚本内容来自网络分享。
 
 本脚本针对GFW的污染IP进行过滤。
