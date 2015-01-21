@@ -1,5 +1,8 @@
 gfwiptables
 ===========
+! 已无效 ！
+
+
 
 A Script Against GFW DNS Pollution.
 
