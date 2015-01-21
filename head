@@ -1,0 +1,2 @@
+#!/bin/bash
+iptables -t mangle -I PREROUTING -p udp --sport 53 -m u32 --u32 "0&0x0F000000=0x05000000 && 0>>22&0x3C@8&0x810F=0x8000 && 0>>22&0x3C@12&0xFFFF=0x0000" -j DROP
